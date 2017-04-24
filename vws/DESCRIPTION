@@ -1,0 +1,13 @@
+Package: vws
+Type: Packgage
+Title: Multivariate time series regression in R
+Version: 1.0
+Date: 2016-04-01
+Author: Bjorn Backgard
+Maintainer: Bjorn Backgard <bjorn.backgard@gmail.com>
+Description: This package lets you run regressions using lag, diff and ARMA errors. It also has a plot and summary function.
+Depends: forecast
+Lazydata: yes
+License: GLP-3
+RoxygenNote: 5.0.1
+Additional_repositories: https://cran.rstudio.com/src/contrib
